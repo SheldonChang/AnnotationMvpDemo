@@ -38,8 +38,6 @@ dependencies {
 }
 
 dependencies {
-    implementation "org.fourthline.cling:cling-core:${CLING_VERSION}"
-    implementation "org.fourthline.cling:cling-support:${CLING_VERSION}"
     annotationProcessor "org.androidannotations:androidannotations:${ANDROID_ANNOTATION_VERSION}"
     implementation "org.androidannotations:androidannotations-api:$ANDROID_ANNOTATION_VERSION"
 }

@@ -16,15 +16,6 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-    packagingOptions {
-        exclude 'META-INF/beans.xml'
-    }
-}
-
-repositories {
-    maven {
-        url 'http://4thline.org/m2'
-    }
 }
 
 dependencies {

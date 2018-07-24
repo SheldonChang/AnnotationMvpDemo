@@ -12,3 +12,5 @@
         └── LoginPresenter.java
 
 
+Practice MVP and android annotation.
+https://github.com/androidannotations/androidannotations
